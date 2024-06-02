@@ -18,5 +18,3 @@ scOmics-integration
 │   └── azure
 │       └── main.tf
 └── .gitignore
-
-
