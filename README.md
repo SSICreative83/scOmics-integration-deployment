@@ -11,11 +11,12 @@ scOmics-integration
 ├── scrna_omics_analysis.nf
 ├── deployment.yaml
 ├── terraform
-│ ├── gcp
-│ │ └── main.tf
-│ ├── aws
-│ │ └── main.tf
-│ └── azure
-│ └── main.tf
+│   ├── gcp
+│   │   └── main.tf
+│   ├── aws
+│   │   └── main.tf
+│   └── azure
+│       └── main.tf
 └── .gitignore
+
 
