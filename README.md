@@ -2,6 +2,4 @@
 
 This repository contains a scOmics integration workflow platform for deployment on GCP, AWS, and Azure.
 
-## Directory Structure
-
 
